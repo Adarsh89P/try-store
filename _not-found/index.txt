@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/try-store/_next/static/chunks/2tx_w6auxo90x.js"
+3:I[4025,["$2"],"AccountProvider"]
+4:"WishlistProvider"
+5:I[65379,["$2"],"$4"]
+6:I[96276,["$2"],"CartProvider"]
+7:I[39756,["$2"],"default"]
+8:I[37457,["$2"],"default"]
+9:"/try-store/_next/static/chunks/1tu12g4yei22b.js"
+a:I[70119,["$2","$9"],"default"]
+b:I[22016,["$2","$9"],""]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+18:I[68027,["$2"],"default",1]
+:HL["/try-store/_next/static/chunks/1xcbosz6pxtzz.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap","style"]
+d:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[[["$","$La",null,{}],["$","main",null,{"className":"mx-auto flex w-full max-w-[1360px] flex-1 flex-col items-center justify-center gap-4 px-5 py-24 text-center","children":[["$","h1",null,{"className":"m-0 font-display text-5xl font-medium","children":"Page not found"}],["$","p",null,{"className":"m-0 text-[#4a3340]","children":"That page does not exist, or it has moved."}],["$","$Lb",null,{"href":"/","className":"inline-flex min-h-14 items-center justify-center rounded-full bg-brand px-8 text-base font-bold text-white hover:bg-brand-dark","children":"Back to home"}]]}]],[["$","script","script-0",{"src":"/try-store/_next/static/chunks/1tu12g4yei22b.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
+c:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qe"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/try-store/_next/static/chunks/1xcbosz6pxtzz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/try-store/_next/static/chunks/2tx_w6auxo90x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"flex min-h-screen flex-col","children":["$","$L3",null,{"children":["$","$L5",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$La",null,{}],["$","main",null,{"className":"mx-auto flex w-full max-w-[1360px] flex-1 flex-col items-center justify-center gap-4 px-5 py-24 text-center","children":[["$","h1",null,{"className":"m-0 font-display text-5xl font-medium","children":"Page not found"}],["$","p",null,{"className":"m-0 text-[#4a3340]","children":"That page does not exist, or it has moved."}],["$","$Lb",null,{"href":"/","className":"inline-flex min-h-14 items-center justify-center rounded-full bg-brand px-8 text-base font-bold text-white hover:bg-brand-dark","children":"Back to home"}]]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[["$","link","0",{"rel":"stylesheet","href":"/try-store/_next/static/chunks/1xcbosz6pxtzz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"YExHe951gQOHdxMJmpYsL"}
+d:C
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["$2"],"IconMark"]
+11:null
+17:[["$","title","0",{"children":"[YOUR STORE] | Sarees, dresses and more"}],["$","meta","1",{"name":"description","content":"Browse sarees without ever going back. Colours, photos and sizes follow the saree you are looking at."}],["$","link","2",{"rel":"icon","href":"/try-store/icon.svg?icon.02xpdymd9d_4d.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]
