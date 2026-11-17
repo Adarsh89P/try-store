@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "[YOUR STORE]",
+    "slug": "saree-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#D6196B",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 200,
+          "backgroundColor": "#FFF1F5"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "Allow [YOUR STORE] to use your camera for virtual try-on.",
+          "photosPermission": "Allow [YOUR STORE] to read a photo of you for virtual try-on."
+        }
+      ]
+    ]
+  }
+}

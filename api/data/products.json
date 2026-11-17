@@ -1,0 +1,425 @@
+[
+  {
+    "slug": "ombre-net-saree",
+    "category": "sarees",
+    "name": "Ombré Net Saree",
+    "blurb": "Soft net that fades from orange to magenta, finished with a jewelled border and pallu. Made for weddings and festive nights.",
+    "unavailableSizes": [
+      "XXL"
+    ],
+    "colours": [
+      {
+        "name": "Orange & magenta",
+        "swatch": "linear-gradient(135deg, #F08A2A 0 50%, #C2187D 50% 100%)",
+        "image": "/products/saree-1.jpg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "banarasi-silk-saree",
+    "category": "sarees",
+    "name": "Banarasi Silk Saree",
+    "blurb": "Cream silk with a woven pattern and a deep green border. A classic for pujas and weddings.",
+    "unavailableSizes": [
+      "S"
+    ],
+    "colours": [
+      {
+        "name": "Cream & green",
+        "swatch": "linear-gradient(135deg, #E9DDB8 0 50%, #1E9B50 50% 100%)",
+        "image": "/products/saree-2.jpg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "olive-silk-saree",
+    "category": "sarees",
+    "name": "Olive Silk Saree",
+    "blurb": "Olive green saree with a gold paisley pallu and a beaded maroon border. Traditional and easy to wear.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Olive & gold",
+        "swatch": "linear-gradient(135deg, #6B6A2C 0 50%, #D6A233 50% 100%)",
+        "image": "/products/saree-3.jpg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "embroidered-georgette-saree",
+    "category": "sarees",
+    "name": "Embroidered Georgette Saree",
+    "blurb": "Gold georgette with floral embroidery, a black border and an orange net trail.",
+    "unavailableSizes": [
+      "XL",
+      "XXL"
+    ],
+    "colours": [
+      {
+        "name": "Gold & black",
+        "swatch": "linear-gradient(135deg, #E3C27A 0 50%, #1D1A1A 50% 100%)",
+        "image": "/products/saree-4.jpg",
+        "fit": "contain"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "ivory-georgette-saree",
+    "category": "sarees",
+    "name": "Ivory Georgette Saree",
+    "blurb": "Soft ivory georgette with a fine gold border and a flowing pallu. Light and graceful.",
+    "unavailableSizes": [
+      "S"
+    ],
+    "colours": [
+      {
+        "name": "Ivory",
+        "swatch": "#F3EBDD",
+        "image": "/products/saree-5.jpg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-dresses-1",
+    "category": "dresses",
+    "name": "Sample Dress 1",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [
+      "XXL"
+    ],
+    "colours": [
+      {
+        "name": "Rose",
+        "swatch": "#E58AA8",
+        "image": "/products/placeholder-dresses.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Navy",
+        "swatch": "#1F2A5A",
+        "image": "/products/placeholder-dresses.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-dresses-2",
+    "category": "dresses",
+    "name": "Sample Dress 2",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Rose",
+        "swatch": "#E58AA8",
+        "image": "/products/placeholder-dresses.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Navy",
+        "swatch": "#1F2A5A",
+        "image": "/products/placeholder-dresses.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-dresses-3",
+    "category": "dresses",
+    "name": "Sample Dress 3",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Rose",
+        "swatch": "#E58AA8",
+        "image": "/products/placeholder-dresses.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Navy",
+        "swatch": "#1F2A5A",
+        "image": "/products/placeholder-dresses.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-girls-1",
+    "category": "girls",
+    "name": "Sample Girls' outfit 1",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Peach",
+        "swatch": "#F6B79A",
+        "image": "/products/placeholder-girls.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Sky",
+        "swatch": "#9CC9EA",
+        "image": "/products/placeholder-girls.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-girls-2",
+    "category": "girls",
+    "name": "Sample Girls' outfit 2",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Peach",
+        "swatch": "#F6B79A",
+        "image": "/products/placeholder-girls.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Sky",
+        "swatch": "#9CC9EA",
+        "image": "/products/placeholder-girls.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-girls-3",
+    "category": "girls",
+    "name": "Sample Girls' outfit 3",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Peach",
+        "swatch": "#F6B79A",
+        "image": "/products/placeholder-girls.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Sky",
+        "swatch": "#9CC9EA",
+        "image": "/products/placeholder-girls.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-men-1",
+    "category": "men",
+    "name": "Sample Men's outfit 1",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [
+      "S"
+    ],
+    "colours": [
+      {
+        "name": "Charcoal",
+        "swatch": "#3A3A3F",
+        "image": "/products/placeholder-men.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Cream",
+        "swatch": "#EFE5CF",
+        "image": "/products/placeholder-men.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-men-2",
+    "category": "men",
+    "name": "Sample Men's outfit 2",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Charcoal",
+        "swatch": "#3A3A3F",
+        "image": "/products/placeholder-men.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Cream",
+        "swatch": "#EFE5CF",
+        "image": "/products/placeholder-men.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-men-3",
+    "category": "men",
+    "name": "Sample Men's outfit 3",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Charcoal",
+        "swatch": "#3A3A3F",
+        "image": "/products/placeholder-men.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Cream",
+        "swatch": "#EFE5CF",
+        "image": "/products/placeholder-men.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-earrings-1",
+    "category": "earrings",
+    "name": "Sample Earrings 1",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Gold",
+        "swatch": "#D6A233",
+        "image": "/products/placeholder-earrings.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Silver",
+        "swatch": "#C0C4C9",
+        "image": "/products/placeholder-earrings.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-earrings-2",
+    "category": "earrings",
+    "name": "Sample Earrings 2",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Gold",
+        "swatch": "#D6A233",
+        "image": "/products/placeholder-earrings.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Silver",
+        "swatch": "#C0C4C9",
+        "image": "/products/placeholder-earrings.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-earrings-3",
+    "category": "earrings",
+    "name": "Sample Earrings 3",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Gold",
+        "swatch": "#D6A233",
+        "image": "/products/placeholder-earrings.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Silver",
+        "swatch": "#C0C4C9",
+        "image": "/products/placeholder-earrings.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-accessories-1",
+    "category": "accessories",
+    "name": "Sample Accessory 1",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Maroon",
+        "swatch": "#7A1F3D",
+        "image": "/products/placeholder-accessories.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Teal",
+        "swatch": "#1F7A6D",
+        "image": "/products/placeholder-accessories.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-accessories-2",
+    "category": "accessories",
+    "name": "Sample Accessory 2",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Maroon",
+        "swatch": "#7A1F3D",
+        "image": "/products/placeholder-accessories.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Teal",
+        "swatch": "#1F7A6D",
+        "image": "/products/placeholder-accessories.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  },
+  {
+    "slug": "sample-accessories-3",
+    "category": "accessories",
+    "name": "Sample Accessory 3",
+    "blurb": "[DESCRIPTION] Replace this text with the real product description.",
+    "unavailableSizes": [],
+    "colours": [
+      {
+        "name": "Maroon",
+        "swatch": "#7A1F3D",
+        "image": "/products/placeholder-accessories.svg",
+        "fit": "cover"
+      },
+      {
+        "name": "Teal",
+        "swatch": "#1F7A6D",
+        "image": "/products/placeholder-accessories.svg",
+        "fit": "cover"
+      }
+    ],
+    "priceInr": null
+  }
+]

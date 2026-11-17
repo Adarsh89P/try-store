@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #d6196b;
+  --color-brand-dark: #a8104f;
+  --color-blush: #fff1f5;
+  --color-ground: #fff8f6;
+  --color-plum: #2b1220;
+  --color-muted: #6b5560;
+  --color-line: #f0dde4;
+  --color-edge: #e5cfd8;
+  --color-danger: #b3123f;
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--color-ground);
+  color: var(--color-plum);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible {
+  outline: 3px solid #1f4fd6;
+  outline-offset: 2px;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Gentle fade-in for page content; switched off for people who prefer less motion. */
+@keyframes page-enter {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+.page-enter { animation: page-enter 0.35s ease-out both; }
+@media (prefers-reduced-motion: reduce) { .page-enter { animation: none; } }
+button:not(:disabled):active, a[class*="rounded-full"]:active { transform: scale(0.98); }
+
+/* AI try-on analysing screen. */
+@keyframes scan {
+  0% { top: 4%; }
+  50% { top: 94%; }
+  100% { top: 4%; }
+}
+@keyframes sweep {
+  from { transform: translateX(-120%); }
+  to { transform: translateX(220%); }
+}
+@keyframes pulse-ring {
+  0%, 100% { opacity: 0.35; transform: scale(1); }
+  50% { opacity: 0.9; transform: scale(1.03); }
+}
+.scan-line { animation: scan 2.4s ease-in-out infinite; }
+.scan-sweep { animation: sweep 2.2s ease-in-out infinite; }
+.scan-pulse { animation: pulse-ring 1.8s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .scan-line, .scan-sweep, .scan-pulse { animation: none; }
+}
