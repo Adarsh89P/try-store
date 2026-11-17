@@ -6,3 +6,5 @@ playwright-report
 next-env.d.ts
 .env*.local
 .next-api
+out/
+.next-pages

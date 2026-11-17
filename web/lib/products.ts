@@ -26,6 +26,9 @@ export const CATEGORIES: Category[] = [
   { id: "accessories", label: "Accessories", noun: "item", sizeLabel: null, sizes: [], tint: "#fff0c9", href: "/shop/accessories" },
 ];
 
+// Photos are served from /public. On GitHub Pages the site lives under /<repo>, so image paths need that prefix.
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export const getCategory = (id: string): Category | undefined => CATEGORIES.find((c) => c.id === id);
 
 export type Colour = {
@@ -64,7 +67,7 @@ export const products: Product[] = [
       {
         name: "Orange & magenta",
         swatch: "linear-gradient(135deg, #F08A2A 0 50%, #C2187D 50% 100%)",
-        image: "/products/saree-1.jpg",
+        image: `${BASE}/products/saree-1.jpg`,
         fit: "cover",
       },
     ],
@@ -80,7 +83,7 @@ export const products: Product[] = [
       {
         name: "Cream & green",
         swatch: "linear-gradient(135deg, #E9DDB8 0 50%, #1E9B50 50% 100%)",
-        image: "/products/saree-2.jpg",
+        image: `${BASE}/products/saree-2.jpg`,
         fit: "cover",
       },
     ],
@@ -97,7 +100,7 @@ export const products: Product[] = [
       {
         name: "Olive & gold",
         swatch: "linear-gradient(135deg, #6B6A2C 0 50%, #D6A233 50% 100%)",
-        image: "/products/saree-3.jpg",
+        image: `${BASE}/products/saree-3.jpg`,
         fit: "cover",
       },
     ],
@@ -113,7 +116,7 @@ export const products: Product[] = [
       {
         name: "Gold & black",
         swatch: "linear-gradient(135deg, #E3C27A 0 50%, #1D1A1A 50% 100%)",
-        image: "/products/saree-4.jpg",
+        image: `${BASE}/products/saree-4.jpg`,
         fit: "contain",
       },
     ],
@@ -129,7 +132,7 @@ export const products: Product[] = [
       {
         name: "Ivory",
         swatch: "#F3EBDD",
-        image: "/products/saree-5.jpg",
+        image: `${BASE}/products/saree-5.jpg`,
         fit: "cover",
       },
     ],
@@ -149,7 +152,7 @@ function sample(category: CategoryId, label: string, n: number, colours: [string
     colours: colours.map(([name, swatch]) => ({
       name,
       swatch,
-      image: `/products/placeholder-${category}.svg`,
+      image: `${BASE}/products/placeholder-${category}.svg`,
       fit: "cover" as const,
     })),
   }));
